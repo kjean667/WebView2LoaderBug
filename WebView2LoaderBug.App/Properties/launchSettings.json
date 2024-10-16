@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WebView2LoaderBug.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WebView2LoaderBug.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
