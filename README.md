@@ -1,6 +1,6 @@
 # Failure to build when Microsoft.WindowsAppSDK 1.6 referenced through secondary nuget package
 
-This is a reproduction example of a WinUI 3 bug introduced in Microsoft.WindowsAppSDK 1.6.240923002.
+This is a reproduction example of a WinUI 3 bug (https://github.com/microsoft/WindowsAppSDK/issues/4807) introduced in Microsoft.WindowsAppSDK 1.6.240923002.
 
 The bug makes it impossible for a class library to consume a nuget package that references the WindowsAppSDK 1.6.240923002 nuget package.
 
